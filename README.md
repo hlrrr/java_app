@@ -1,6 +1,7 @@
 # java spring boot study
 
-## Goals
-- project setup
-- basic CRUD 
+> ## Goals
+> 
+> - project setup
+> - basic CRUD 
 
